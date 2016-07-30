@@ -1,6 +1,6 @@
 # Java-Signalr X10 Raspberry PI
 
-Soem old code I wrote to control my X10 Home automation form a raspberry Pi using MOCHAD and signalr
+Some old code I wrote to control my X10 Home automation from a raspberry Pi using MOCHAD and signalr
 
 
 
