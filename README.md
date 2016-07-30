@@ -13,5 +13,5 @@ https://www.amazon.com/X10-R-F-PC-Transceiver-CM19A/dp/B0027RMIAO/ref=sr_1_1?ie=
 
 
 
-replace the path to where you saved the signalr adn java sdk or make a syslink
- export CLASSPATH="/home/java/signalr-client-sdk.jar:/home/java/HelloWorldAppp.class:/home/java/gson-2.2.2.jar:."
+Replace the path to where you saved the signalr adn java sdk or make a syslink
+export CLASSPATH="/home/java/signalr-client-sdk.jar:/home/java/HelloWorldAppp.class:/home/java/gson-2.2.2.jar:."
